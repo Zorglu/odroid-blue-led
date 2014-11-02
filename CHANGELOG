@@ -1,3 +1,17 @@
+v0.0.1rc2:
+  date: 2014-10-30
+  changes:
+    - Replacement of js.watch by Inotify for better reactivity
+    - Renaming methods
+    - The methods can be called with or without callback
+    - The read method has a parameter more to read anything other than trigger in future usage
+    - Example.js
+        
+v0.0.1rc1:
+  date: 2014-10-30
+  changes:
+  	- Source cleaning
+
 v0.0.1:
   date: 2014-10-30
   changes:
