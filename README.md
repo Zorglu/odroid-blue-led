@@ -12,10 +12,10 @@ The object should be able to turn on or off the LED flash at the desired frequen
 
 
 ## Installation
- [NodeJS][nodejs_dev] versions 10.12.x are currently supported and tested.
+ NodeJS versions 10.12.x are currently supported and tested.
 
 ### Install from NPM (Easy way)
-    $ npm install odroid-blue-led.js
+    $ npm install odroid-blue-led
 
     
 ## API
